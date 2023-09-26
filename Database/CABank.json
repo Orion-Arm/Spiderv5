@@ -1,0 +1,11 @@
+{"Locations":[
+    {"Region":"Alberta","Code":[403, 587, 780, 825, 368],"Bank":"ATB Financial"},
+    {"Region":"British Columbia","Code":[236, 250, 604, 672, 778],"Bank":"Royal Bank Of Canada"},
+    {"Region":"Manitoba","Code":[204, 431, 584],"Bank":"First Nations Bank"},
+    {"Region":"New Brunswick","Code":[506],"Bank":"Royal Bank Of Canada"},
+    {"Region":"Newfoundland","Code":[709],"Bank":"Scotiabank"},
+    {"Region":"Nova Scotia/Prince","Code":[782, 902],"Bank":"Scotiabank"},
+    {"Region":"Ontario","Code":[226, 249, 289, 343, 365, 416, 437, 519, 548, 613, 647, 705, 807, 905],"Bank":"Deutsche Bank"},
+    {"Region":"Quebec","Code":[367, 418, 438, 450, 514, 579, 581, 819, 873],"Bank":"Banque Scotia"},
+    {"Region":"Saskatchewan","Code":[306, 639],"Bank":"Royal Bank Of Canada"},
+    {"Region":"Yukon/Northwest Territories","Code":[867],"Bank":"First Nations Bank"}]}
